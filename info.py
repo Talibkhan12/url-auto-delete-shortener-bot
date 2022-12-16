@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://youtube.com/shorts/oCRaWk2ubbw?feature=share"
+DOWNLOAD_TEXT_URL = "https://youtu.be/vVdpPkVPhUs"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
