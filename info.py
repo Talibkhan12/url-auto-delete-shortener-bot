@@ -85,7 +85,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://youtu.be/2DsYtgocbLc"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = ""
-CAPTION_BUTTON_URL = ""
+CAPTION_BUTTON = "Subscribe"
+CAPTION_BUTTON_URL = "https://youtube.com/channel/UCczyZQYhj8PdDEEWiG3FpYA"
 
    # Auto Delete For Bot Sending Files #
